@@ -35,7 +35,3 @@ We can therefore detect 20 objects in images (+1 for the background class), incl
 # Testing 
 1. Clone the repository.
 2. Install the dependencies.
-
-
-# Copyright
-See (https://github.com/parultaneja/Real-Time-Object-Detection-With-Sound/blob/master/LICENSE) for details. Copyright (c) 2019
